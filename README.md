@@ -19,6 +19,8 @@
 my name's ruby or hunter, 17 and a butch lesbian. i talk a lot and i'm usually with friends, but i don't bite!!! come say hi if you're a rwby fan :happy
 
 i really like ruby rose if u cant tell (weiss is the actual favorite)
+
+
   </small>
 </details>
 </div>
