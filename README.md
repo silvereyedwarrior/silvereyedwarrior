@@ -13,14 +13,13 @@ $\textsf{\color{#e02b5e}୨୧ eng pref}$ $\textsf{\color{#c9bdb7}ruby rose irl}
 $\textsf{\color{#39963b}penny}$ , $\textsf{\color{#6096c4}kate}$ , $\textsf{\color{#32AD23}laz}$ , $\textsf{\color{#e0eb9b}mack}$ , $\textsf{\color{#f294c8}elise}$ , $\textsf{\color{#624185}gigi}$
 
 </details>
+<div align="center" >
+<details>
+<summary>$\textsf{\color{#e6935c}✉︎}$</summary>
+  $\textsf{\color{#c9bdb7}Ne-Fi so7 7w6}$ $\textsf{\color{#e02b5e}so/sp782 IEE}$ $\textsf{\color{#3b3432}VLEF sanguine[dominant]}$ $\textsf{\color{#c9bdb7}[S]Lu/A/n}$
+</details>
 <p align="center" >
 <img src="https://github.com/user-attachments/assets/3100d48a-f8e4-4b6c-a906-7a1b47f7263c" width="252.25" height="177.375" >
   </p>
 <p align="center" >
   me and penny for reals
-</p>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hbv4kmyea3np6m6bvyacxfgvc&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=e6416b&bar_color_cover=false">
-  </a>
-</p>
